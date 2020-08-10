@@ -203,6 +203,27 @@ table {
 
 }
 
+@media only screen and (max-width: 414px) {
+
+    .content_6 {
+        height: 680px !important;
+    }
+
+    .info_5_2 {
+        text-align: left !important;
+        width: 293px !important;
+        font: italic 143%/144% Georgia, "Times New Roman", Times, serif !important;
+    }
+
+    .yaz {
+        left: 20px !important;
+    }
+
+    .content_7 {
+        height: 1300px !important;
+    }
+}
+
 .header {
 
     padding-bottom: 7px;
