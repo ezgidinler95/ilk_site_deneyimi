@@ -146,6 +146,61 @@ table {
         margin-left: 20% !important;
     }
 
+    .img_son {
+        margin-left: 36px !important;
+    }
+
+    .info_son_p {
+        width: 200px !important;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 788px) {
+
+    .content_7 {
+        height: 700px !important;
+    }
+
+    .info_son_pp {
+        margin-left: -41px !important;
+    }
+
+    .info_5_2 {
+        width: 380px !important;
+    }
+
+    .yazi2 {
+        font-size: 54px !important;
+    }
+
+    .yazi3 {
+        width: 300px !important;
+    }
+
+}
+
+@media only screen and (max-width: 667px) {
+
+    .content_2 {
+        height: 1090px !important;
+    }
+
+    .content_3 {
+        height: 1951px !important;
+    }
+
+    .content_4 {
+
+        margin-top: 55px !important;
+    }
+
+    .box {
+        display: none !important;
+    }
+
 }
 
 .header {
@@ -307,7 +362,7 @@ table {
     background: rgba(0, 0, 0, 0.7);
     border-radius: 2px;
     padding: 4px 26px 8px 26px;
-    margin-top: 55px;
+    margin-top: 140px;
     text-align: center;
     font-weight: normal;
     font-size: 13px;
@@ -317,7 +372,7 @@ table {
 
 .content_2 {
     background-image: url(https://pexetothemes.com/demos/story_wp/wp-content/uploads/2014/05/public-domain-images-free-high-resolution-quality-photos-unsplash-0207-nv.jpg);
-    height: 550px;
+    height: 600px;
     opacity: 1;
     background-attachment: fixed;
     width: 100%;
@@ -364,6 +419,7 @@ table {
     font-size: 14px;
     font-family: Montserrat, 'Open Sans', Helvetica, Arial, sans-serif;
     margin: 66px;
+    margin-top: 100px;
 }
 
 .content_4 {
@@ -422,7 +478,7 @@ table {
 }
 
 .content_6 {
-    height: 500px;
+    height: 580px;
 }
 
 .info_5 {
@@ -443,7 +499,7 @@ table {
 .info_5_2 {
     width: 600px;
     text-align: center;
-    margin-left: 30%;
+    margin-left: 26%;
     font: italic 170%/150% Georgia, "Times New Roman", Times, serif;
     color: #7d7878;
     margin-top: 30px;
@@ -479,12 +535,12 @@ table {
     text-align: left;
     font-size: 15px;
     margin-top: 22px;
-    width: 300px;
+    width: 210px;
     margin-left: 42px;
 }
 
 .info_son_pp {
-
+    margin-left: 14px;
     margin-top: 15px;
     font-size: 12px;
 }
